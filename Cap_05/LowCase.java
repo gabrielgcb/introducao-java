@@ -1,5 +1,5 @@
 /*
-Transformar letras maiúsculas em minúsculas 
+Transformar letras maiusculas em minusculas 
 pela redefinicao do 6o bit com 1.
 */
 
@@ -15,6 +15,6 @@ class LowCase{
 			ch = (char) (ch | 32);
 			System.out.print(ch + " ");
 		}
-		
+
 	}
 }
