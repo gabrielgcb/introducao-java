@@ -1,7 +1,7 @@
 class Search {
 	public static void main(String[] args) {
 
-		int[] nums = { 5, 3, 6, 9, 8, 5, 2, 88, 54, 51, 99, 54, 89, 21, 15};
+		int[] nums = { 5, 33, 65, 9, 8, 5, 2, 88, 54, 51, 99, 54, 89, 21, 15};
 		int val = 88;
 		boolean found = false;
 
