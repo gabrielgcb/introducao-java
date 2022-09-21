@@ -1,5 +1,5 @@
 /*
-Transformar letras minúsculas em maiúscula 
+Transformar letras minúsculas em maiúsculas 
 pela redefinicao do 6o bit com 0.
 */
 
