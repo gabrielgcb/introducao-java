@@ -1,3 +1,5 @@
+//Usa XOR para codificar e decodificar uma mensagem.
+
 class Encode {
 	public static void main(String[] args) throws java.io.IOException {
 
@@ -21,5 +23,6 @@ class Encode {
 			msg_dec = msg_dec + (char) (msg_cod.charAt(i) ^ key);
 		}
 		System.out.println("\tMENSAGEM DECODIFICADA: \n" + msg_dec);
+
 	}
 }

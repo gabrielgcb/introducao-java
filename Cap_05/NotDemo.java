@@ -1,3 +1,5 @@
+// Demonstra o NOT bitwise.
+
 class NotDemo {
 	public static void main(String[] args) {
 
